@@ -1,0 +1,2 @@
+## Package required
+1. ipykernal - to run jupyter
