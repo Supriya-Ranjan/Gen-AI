@@ -8,6 +8,7 @@ __pycache__/
 venv/
 env/
 .venv/
+.ipynb_checkpoints/
 
 # Conda
 conda-meta/
