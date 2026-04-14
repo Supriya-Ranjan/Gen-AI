@@ -1,0 +1,6 @@
+Hello, this is a sample file.
+This file is used for demonstrating file operations in Python.
+This line is added in append mode.
+Line 1: This is the first line.
+Line 2: This is the second line.
+Line 3: This is the third line.
