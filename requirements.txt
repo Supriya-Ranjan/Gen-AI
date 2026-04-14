@@ -1,2 +1,3 @@
 ## Package required
 1. ipykernal - to run jupyter
+2. numpy - for array manipulation
