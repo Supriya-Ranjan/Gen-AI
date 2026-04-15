@@ -1,3 +1,9 @@
 ## Package required
 1. ipykernal - to run jupyter
 2. numpy - for array manipulation
+3. pandas - for data manipulation
+4. matplotlib - for data visualization
+5. seaborn - for statistical data visualization
+6. flask - for building web applications
+7. memory_profiler - for profiling memory usage
+8. streamlit - for building web applications
