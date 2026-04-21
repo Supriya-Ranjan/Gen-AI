@@ -1,0 +1,18 @@
+
+1. ANN -> Artificial Neural Network 
+    1. Classification #Both are tabular data
+    2. Regression
+
+2. CNN -> Convolution neural Network
+    # data in the form of image and video frame
+
+3. NLP In Deep Learning
+    # data in sequential data
+
+    # text generation - example - this is a apple juice - #able to generate this 
+
+    2. chatbot conversation -> Q/A
+    3. Language Translation
+    4. auto suggestion
+    3. Sales Data 
+
