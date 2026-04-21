@@ -13,7 +13,7 @@ data = {
     'Column 1': [1, 2, 3],
     'Column 2': [4, 5, 6]
 }
-df = pd.DataFrame(data)
+df = pd.DataFrame(np.random.randn(10, 3), columns=['Column 1', 'Column 2', 'Column 3'])
 st.write("Here is a sample DataFrame:")
 st.dataframe(df)
 
